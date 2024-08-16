@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558382929101",
+    "project_id": "signin-example-a8055",
+    "storage_bucket": "signin-example-a8055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558382929101:android:28302719924ad2fc770584",
+        "android_client_info": {
+          "package_name": "com.example.fourtyoneminutes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDVWGL9peCHsicyPuDv81Jc9Ql9Z1XRbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
